@@ -18,6 +18,7 @@
   "homepage": "https://github.com/claussen100/Node_Selenium#readme",
   "description": "",
   "dependencies": {
+    "dotenv": "^16.4.5",
     "mocha": "10.7.3",
     "pg": "^8.13.0",
     "selenium-webdriver": "^4.25.0"
